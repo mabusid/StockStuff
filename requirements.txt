@@ -1,0 +1,7 @@
+json
+numpy
+matplotlib
+langchain
+yfinance
+PIL
+streamlit
